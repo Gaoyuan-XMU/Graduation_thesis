@@ -1,0 +1,17 @@
+gradio
+openai-whisper
+opencc  # 如果报错使用opencc-python-reimplemented
+requests
+edge-tts
+torch  # SadTalker 依赖
+numpy
+opencv-python
+imageio
+imageio-ffmpeg
+face-alignment
+scipy
+matplotlib
+tqdm
+pyaudio
+ffmpeg-python
+pydub  # 如果需要处理音频转换
